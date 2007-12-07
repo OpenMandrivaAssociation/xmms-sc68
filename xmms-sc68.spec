@@ -22,7 +22,7 @@ sc68 is an Atari ST and Amiga music player.  It can play special files
 program to play it.  You can find a very large collection of this file
 on sc68 official web site <http://sashipa.ben.free.fr/sc68>.
 
-This package contains an input plugin for XMMS <http://www.xmms.org>.
+This package contains an input plugin for XMMS.
 
 %prep
 %setup -q -n %oname-%version
