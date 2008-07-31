@@ -1,6 +1,6 @@
 %define	name	xmms-sc68
 %define	version	2.1.0
-%define release	%mkrel 5
+%define release	%mkrel 7
 %define oname xmms68
 
 Summary:	SC68 - Atari ST and Amiga music player
