@@ -9,7 +9,7 @@ Version:	%{version}
 Release:	%{release}
 License:	GPL
 Group:		Sound
-Url:		http://sc68.atari.org/
+Url:		https://sc68.atari.org/
 Source:		http://prdownloads.sourceforge.net/sc68/%{oname}-%{version}.tar.bz2
 BuildRoot:	%{_tmppath}/%{name}-%{version}-root
 Requires:	xmms
