@@ -13,6 +13,11 @@ Url:		https://sc68.atari.org/
 Source:		http://prdownloads.sourceforge.net/sc68/%{oname}-%{version}.tar.bz2
 BuildRoot:	%{_tmppath}/%{name}-%{version}-root
 Requires:	xmms
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	libxmms-devel
 BuildRequires:	libsc68-devel
 
